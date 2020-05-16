@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Healthy Recipes
 
 You can use the [editor on GitHub](https://github.com/Thetoyking91/recepies/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
